@@ -2422,6 +2422,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4514512384618648910, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514512384618648910, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514512384618648910, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -450
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514512384618648910, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5372975793523484472, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -2513,6 +2529,14 @@ PrefabInstance:
     - target: {fileID: 6148975975267075599, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
       propertyPath: m_Name
       value: WorldCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148975976773749035, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148975976773749035, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9fa3d75be5dbe441a665807742837b1, type: 3}
