@@ -1,0 +1,70 @@
+{
+  "playerSkill": [
+    {
+      "skillName": "Slash",
+      "skillLev": 0,
+      "skillDamage": 0,
+      "coolTime": 0
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 1,
+      "skillDamage": 150,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 2,
+      "skillDamage": 190,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 3,
+      "skillDamage": 230,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 4,
+      "skillDamage": 270,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 5,
+      "skillDamage": 310,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 6,
+      "skillDamage": 350,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 7,
+      "skillDamage": 390,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 8,
+      "skillDamage": 430,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 9,
+      "skillDamage": 470,
+      "coolTime": 12
+    },
+    {
+      "skillName": "Slash",
+      "skillLev": 10,
+      "skillDamage": 510,
+      "coolTime": 12
+    }
+  ]
+}

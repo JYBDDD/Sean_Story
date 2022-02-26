@@ -1,0 +1,11 @@
+{
+  "Mstat": {
+    "Name": "KingGrunt",
+    "level": 11,
+    "hp": 1500,
+    "maxHp": 1500,
+    "damage": 210,
+    "critical_Chance": 20,
+    "dropExp": 2100
+  }
+}

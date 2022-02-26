@@ -1,0 +1,70 @@
+{
+  "playerSkill": [
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 0,
+      "skillDamage": 0,
+      "coolTime": 0
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 1,
+      "skillDamage": 10,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 2,
+      "skillDamage": 20,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 3,
+      "skillDamage": 30,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 4,
+      "skillDamage": 40,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 5,
+      "skillDamage": 50,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 6,
+      "skillDamage": 60,
+      "coolTime": 14
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 7,
+      "skillDamage": 70,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 8,
+      "skillDamage": 80,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 9,
+      "skillDamage": 90,
+      "coolTime": 7
+    },
+    {
+      "skillName": "Lightning Enchantment",
+      "skillLev": 10,
+      "skillDamage": 100,
+      "coolTime": 7
+    }
+  ]
+}

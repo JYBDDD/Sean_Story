@@ -1,0 +1,11 @@
+{
+    "Mstat": {
+        "level": 3,
+        "hp": 500,
+        "maxHp": 500,
+        "damage": 80,
+        "critical_Chance": 10,
+        "Name": "Golem",
+        "dropExp": 300
+    }
+}

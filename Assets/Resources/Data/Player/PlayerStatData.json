@@ -1,0 +1,454 @@
+{
+    "playerStat": [
+        {
+            "level": 1,
+            "hp": 1000,
+            "maxHp": 1000,
+            "damage": 100,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 1000
+        },
+        {
+            "level": 2,
+            "hp": 1100,
+            "maxHp": 1100,
+            "damage": 110,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 2000
+        },
+        {
+            "level": 3,
+            "hp": 1200,
+            "maxHp": 1200,
+            "damage": 120,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 3000
+        },
+        {
+            "level": 4,
+            "hp": 1300,
+            "maxHp": 1300,
+            "damage": 130,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 4000
+        },
+        {
+            "level": 5,
+            "hp": 1400,
+            "maxHp": 1400,
+            "damage": 140,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 5000
+        },
+        {
+            "level": 6,
+            "hp": 1500,
+            "maxHp": 1500,
+            "damage": 150,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 6000
+        },
+        {
+            "level": 7,
+            "hp": 1600,
+            "maxHp": 1600,
+            "damage": 160,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 7000
+        },
+        {
+            "level": 8,
+            "hp": 1700,
+            "maxHp": 1700,
+            "damage": 170,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 8000
+        },
+        {
+            "level": 9,
+            "hp": 1800,
+            "maxHp": 1800,
+            "damage": 180,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 9000
+        },
+        {
+            "level": 10,
+            "hp": 1900,
+            "maxHp": 1900,
+            "damage": 190,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 10000
+        },
+        {
+            "level": 11,
+            "hp": 2000,
+            "maxHp": 2000,
+            "damage": 200,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 11000
+        },
+        {
+            "level": 12,
+            "hp": 2100,
+            "maxHp": 2100,
+            "damage": 210,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 12000
+        },
+        {
+            "level": 13,
+            "hp": 2200,
+            "maxHp": 2200,
+            "damage": 220,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 13000
+        },
+        {
+            "level": 14,
+            "hp": 2300,
+            "maxHp": 2300,
+            "damage": 230,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 14000
+        },
+        {
+            "level": 15,
+            "hp": 2400,
+            "maxHp": 2400,
+            "damage": 240,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 15000
+        },
+        {
+            "level": 16,
+            "hp": 2500,
+            "maxHp": 2500,
+            "damage": 250,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 16000
+        },
+        {
+            "level": 17,
+            "hp": 2600,
+            "maxHp": 2600,
+            "damage": 260,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 17000
+        },
+        {
+            "level": 18,
+            "hp": 2700,
+            "maxHp": 2700,
+            "damage": 270,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 18000
+        },
+        {
+            "level": 19,
+            "hp": 2800,
+            "maxHp": 2800,
+            "damage": 280,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 19000
+        },
+        {
+            "level": 20,
+            "hp": 2900,
+            "maxHp": 2900,
+            "damage": 290,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 20000
+        },
+        {
+            "level": 21,
+            "hp": 3000,
+            "maxHp": 3000,
+            "damage": 300,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 21000
+        },
+        {
+            "level": 22,
+            "hp": 3100,
+            "maxHp": 3100,
+            "damage": 310,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 22000
+        },
+        {
+            "level": 23,
+            "hp": 3200,
+            "maxHp": 3200,
+            "damage": 320,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 23000
+        },
+        {
+            "level": 24,
+            "hp": 3300,
+            "maxHp": 3300,
+            "damage": 330,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 24000
+        },
+        {
+            "level": 25,
+            "hp": 3400,
+            "maxHp": 3400,
+            "damage": 340,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 25000
+        },
+        {
+            "level": 26,
+            "hp": 3500,
+            "maxHp": 3500,
+            "damage": 350,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 26000
+        },
+        {
+            "level": 27,
+            "hp": 3600,
+            "maxHp": 3600,
+            "damage": 360,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 27000
+        },
+        {
+            "level": 28,
+            "hp": 3700,
+            "maxHp": 3700,
+            "damage": 370,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 28000
+        },
+        {
+            "level": 29,
+            "hp": 3800,
+            "maxHp": 3800,
+            "damage": 380,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 29000
+        },
+        {
+            "level": 30,
+            "hp": 3900,
+            "maxHp": 3900,
+            "damage": 390,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 30000
+        },
+        {
+            "level": 31,
+            "hp": 4000,
+            "maxHp": 4000,
+            "damage": 400,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 31000
+        },
+        {
+            "level": 32,
+            "hp": 4100,
+            "maxHp": 4100,
+            "damage": 410,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 32000
+        },
+        {
+            "level": 33,
+            "hp": 4200,
+            "maxHp": 4200,
+            "damage": 420,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 33000
+        },
+        {
+            "level": 34,
+            "hp": 4300,
+            "maxHp": 4300,
+            "damage": 430,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 34000
+        },
+        {
+            "level": 35,
+            "hp": 4400,
+            "maxHp": 4400,
+            "damage": 440,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 35000
+        },
+        {
+            "level": 36,
+            "hp": 4500,
+            "maxHp": 4500,
+            "damage": 450,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 36000
+        },
+        {
+            "level": 37,
+            "hp": 4600,
+            "maxHp": 4600,
+            "damage": 460,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 37000
+        },
+        {
+            "level": 38,
+            "hp": 4700,
+            "maxHp": 4700,
+            "damage": 470,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 38000
+        },
+        {
+            "level": 39,
+            "hp": 4800,
+            "maxHp": 4800,
+            "damage": 480,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 39000
+        },
+        {
+            "level": 40,
+            "hp": 4900,
+            "maxHp": 4900,
+            "damage": 490,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 40000
+        },
+        {
+            "level": 41,
+            "hp": 5000,
+            "maxHp": 5000,
+            "damage": 500,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 41000
+        },
+        {
+            "level": 42,
+            "hp": 5100,
+            "maxHp": 5100,
+            "damage": 510,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 42000
+        },
+        {
+            "level": 43,
+            "hp": 5200,
+            "maxHp": 5200,
+            "damage": 520,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 43000
+        },
+        {
+            "level": 44,
+            "hp": 5300,
+            "maxHp": 5300,
+            "damage": 530,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 44000
+        },
+        {
+            "level": 45,
+            "hp": 5400,
+            "maxHp": 5400,
+            "damage": 540,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 45000
+        },
+        {
+            "level": 46,
+            "hp": 5500,
+            "maxHp": 5500,
+            "damage": 550,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 46000
+        },
+        {
+            "level": 47,
+            "hp": 5600,
+            "maxHp": 5600,
+            "damage": 560,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 47000
+        },
+        {
+            "level": 48,
+            "hp": 5700,
+            "maxHp": 5700,
+            "damage": 570,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 48000
+        },
+        {
+            "level": 49,
+            "hp": 5800,
+            "maxHp": 5800,
+            "damage": 580,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 49000
+        },
+        {
+            "level": 50,
+            "hp": 5900,
+            "maxHp": 5900,
+            "damage": 590,
+            "critical_Chance": 10,
+            "exp": 0,
+            "maxExp": 50000
+        }
+    ]
+}

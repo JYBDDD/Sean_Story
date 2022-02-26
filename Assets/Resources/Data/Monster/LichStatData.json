@@ -1,0 +1,11 @@
+{
+  "Mstat": {
+    "Name" : "Lich",
+    "level": 7,
+    "hp": 600,
+    "maxHp": 600,
+    "damage": 125,
+    "critical_Chance": 15,
+    "dropExp": 1050
+  }
+}

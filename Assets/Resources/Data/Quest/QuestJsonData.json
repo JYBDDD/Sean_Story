@@ -1,0 +1,9 @@
+{
+    "questCode": 10001,
+    "questNpcName": "Guard_QuestNPC",
+    "questName": "골렘 퇴치",
+    "questContent": "골렘때문에 시끄러워서 잠을 잘수가 없군 \n 골렘 3마리를 처치해줘",
+    "monsterName": "Golem",
+    "completionConditions": 3,
+    "compensation": 450
+}

@@ -1,0 +1,11 @@
+{
+  "Mstat": {
+    "Name": "Grunt",
+    "level": 6,
+    "hp": 900,
+    "maxHp": 900,
+    "damage": 150,
+    "critical_Chance": 15,
+    "dropExp": 800
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "Mstat": {
+        "level": 13,
+        "hp": 1200,
+        "maxHp": 1200,
+        "damage": 180,
+        "critical_Chance": 30,
+        "Name": "LichKing",
+        "dropExp": 2600
+    }
+}

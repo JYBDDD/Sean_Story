@@ -1,0 +1,11 @@
+{
+    "Mstat": {
+        "level": 20,
+        "hp": 3500,
+        "maxHp": 3500,
+        "damage": 150,
+        "critical_Chance": 10,
+        "Name": "Drgon",
+        "dropExp": 3000
+    }
+}
